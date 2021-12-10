@@ -5,7 +5,7 @@ function Nav() {
         <div className='nav-wrapper'>
             <ul>
                 <li>
-                    <NavLink to='/home'><h2>Home</h2></NavLink>
+                    <NavLink to='/'><h2>Home</h2></NavLink>
                 </li>
                 <li>
                     <NavLink to='/destination'><h2>Destination</h2></NavLink>
