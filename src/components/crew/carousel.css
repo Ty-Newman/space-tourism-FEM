@@ -56,7 +56,7 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
   .carousel img {
-    width: 100git %;
+    width: 100%;
     display: inline-block;
     pointer-events: none; }
   .carousel .carousel {
