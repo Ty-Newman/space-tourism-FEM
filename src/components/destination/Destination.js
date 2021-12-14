@@ -3,7 +3,7 @@
 function Destination() {
     return(
         <div id='destination-wrapper'>
-            <h1><span class='header-number'>01</span>Pick your destination</h1>
+            <h1><span className='header-number'>01</span>Pick your destination</h1>
             <ul id='destination-select'>
                 <li>Moon</li>
                 <li>Mars</li>
